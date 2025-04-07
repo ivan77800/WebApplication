@@ -34,4 +34,4 @@ The API offers the following features:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ivan77800/WebApplication.git   
-   cd cdn-user-management-api
+   cd WebApplication
